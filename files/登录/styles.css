@@ -8,6 +8,10 @@
   margin-right:0;
   text-align:left;
 }
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
 #base {
   position:absolute;
   z-index:0;
@@ -27,17 +31,22 @@
   top:0px;
   width:1357px;
   height:617px;
+  display:flex;
+}
+#u1 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
 #u2 {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:300px;
-  width:1353px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u3 {
   border-width:0px;
   position:absolute;
   left:1001px;
