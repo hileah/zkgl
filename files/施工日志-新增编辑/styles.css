@@ -976,7 +976,7 @@
   left:0px;
   top:0px;
   width:918px;
-  height:1109px;
+  height:623px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -999,7 +999,7 @@
   left:128px;
   top:372px;
   width:918px;
-  height:1109px;
+  height:623px;
   display:flex;
   font-family:'微软雅黑';
   font-weight:400;
@@ -1277,16 +1277,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:510px;
-  height:211px;
+  width:708px;
+  height:290px;
 }
 #u3342 {
   border-width:0px;
   position:absolute;
-  left:178px;
-  top:772px;
-  width:510px;
-  height:211px;
+  left:162px;
+  top:473px;
+  width:708px;
+  height:290px;
   display:flex;
 }
 #u3342 .text {
@@ -1307,16 +1307,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:513px;
-  height:302px;
+  width:918px;
+  height:84px;
 }
 #u3343 {
   border-width:0px;
   position:absolute;
-  left:175px;
-  top:1027px;
-  width:513px;
-  height:302px;
+  left:128px;
+  top:372px;
+  width:918px;
+  height:84px;
   display:flex;
 }
 #u3343 .text {
@@ -1337,16 +1337,16 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:708px;
-  height:290px;
+  width:1051px;
+  height:103px;
 }
 #u3344 {
   border-width:0px;
   position:absolute;
-  left:162px;
-  top:473px;
-  width:708px;
-  height:290px;
+  left:18px;
+  top:1122px;
+  width:1051px;
+  height:103px;
   display:flex;
 }
 #u3344 .text {
@@ -1362,35 +1362,41 @@
   text-transform:none;
   visibility:hidden;
 }
-#u3345_img {
+#u3345_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:918px;
-  height:84px;
+  width:28px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u3345 {
   border-width:0px;
   position:absolute;
-  left:128px;
-  top:372px;
-  width:918px;
-  height:84px;
+  left:83px;
+  top:1158px;
+  width:28px;
+  height:16px;
   display:flex;
 }
 #u3345 .text {
   position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
 #u3345_text {
   border-width:0px;
-  word-wrap:break-word;
+  white-space:nowrap;
   text-transform:none;
-  visibility:hidden;
 }
 #u3306_state1 {
   position:relative;
